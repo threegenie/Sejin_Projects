@@ -1,4 +1,4 @@
-# My Projects
+# My Projects 💙
 
 ### 📋 비디오게임 매출액 데이터 EDA
 - [Project Repo](https://github.com/threegenie/vgames_project)
